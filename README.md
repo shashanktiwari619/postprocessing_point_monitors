@@ -4,8 +4,8 @@ Folders 1 and 2 contain point monitors generated from Ansys Fluent simulations (
 
 
 Sructure of folders is as follows: <br />
-*Main_Folder* <br />
-    * Subfolder_1 <br />
+**Main_Folder** <br />
+    _Subfolder_1_ <br />
       -->File_1 <br />
       -->File_2 <br />
       -->....<br />
