@@ -21,3 +21,5 @@ If there are additional columns in any file in the folder, the code will read al
 
 
 **trial_2.py**: Python file to concatenate files of same name placed in different folders, e.g., point18.out, point19.out, .... consisting continuous data, e.g., point18.out in folder 1 contains data from t=0 sec to t= 2 sec, point18.out in folder 2 contains data from t=2.1 sec to t = 50 sec, an so on. After concatenation, a new file would be generated with the name point18.out_concatenated.csv  
+
+**dup_removal.py**: Python file to remove duplicate rows from 'n' number of .csv files in a folder. 
