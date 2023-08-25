@@ -1,6 +1,6 @@
 # postprocessing_point_monitors<br />
 
-Folders 1 and 2 contain point monitors generated from Ansys Fluent simulations (these are sample files containing).<br />
+Folders 1 and 2 contain point monitors generated from Ansys Fluent simulations (these are sample files containing time data).<br />
 
 
 Sructure of folders is as follows: <br />
